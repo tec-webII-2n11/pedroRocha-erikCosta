@@ -21,6 +21,6 @@ Usuário Visitante:
 Só vizualiza o site.
 
 Mapa de Navegação:
-[texto](link)
-Wireframe: PEDRO ROCHA IS VERY GAY.
+[Mapa de Navegacao](navegacao.html)
+Wireframe: 
 
