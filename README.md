@@ -21,5 +21,8 @@ Usuário Visitante:
 Só vizualiza o site.
 
 Mapa de Navegação:
+[Mapa de Navegacao](navegacao.html)
 
-Wireframe:
+Wireframe: 
+[Wireframe](wireframe.html)
+
