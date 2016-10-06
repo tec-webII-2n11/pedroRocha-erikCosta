@@ -1,0 +1,97 @@
+body{
+    background-image: url(Estradaa.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;  
+    background-color: rgb(87,87,87);
+    }
+
+header{
+    float: top;
+    background-color: rgb(87,87,87);
+    margin: 0px;
+    height: 100px;
+    width: 75%;
+    padding-left: 25%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    }
+
+#logo{
+    position: absolute;
+    left: 22%;
+    top: 15px;
+    }
+
+header nav {
+    padding-top: 10px;
+    margin: 0px;
+    }
+
+nav ul li{
+    margin: 0px;
+    font-size: 25px;
+    padding: 10px 10px 10px 10px 10px;
+    display: inline;
+    list-style: none;
+    border-radius: 2px; 
+    border: 2px solid;
+    background-color: rgb(50,50,50);
+    text-align: center;
+    font-family: arial;
+    width: 50px;
+    }
+
+nav ul li a{
+    margin: 0px;
+    text-decoration: none;
+    color: rgb(254,2,43);
+    width: 50px;
+    }
+
+nav ul{
+    margin: 0px 10px 0px 50px;
+    }
+.intro{
+    position: absolute;
+    left: 25%;
+    top: 16%;
+    background-color: white;
+    width: 43%;
+    height: 70%;
+    border-radius: 20px;
+    border: 2px solid;
+    text-align: center;
+    }
+.bemvindo{
+    font-family: berlin sans fb;
+    font-size: 30px;
+}
+.tituloarticle{
+    font-family: century gothic;
+    }
+footer{
+    float: top;
+    background-color: rgb(87,87,87);
+    margin: 0px;
+    height: 8%;
+    width: 75%;
+    padding-left: 25%;
+    position: absolute;
+    left: 0%;
+    top: 100%;
+    font-family: candara;
+    }
+
+footer p{
+    display: inline;
+    padding: 5px 5px 5px;
+    list-style: none;
+    text-align: center;
+    }
+footer p a{
+    text-decoration: none;
+    color: white;
+}
