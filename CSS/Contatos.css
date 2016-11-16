@@ -1,0 +1,132 @@
+body{
+    background-image: url(../Imagens/Estradaa.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;  
+    background-color: rgb(87,87,87);
+}
+header{
+    float: top;
+    background-color: rgb(87,87,87);
+    margin: 0px;
+    height: 100px;
+    width: 75%;
+    padding-left: 25%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+} 
+#logo{
+    position: absolute;
+    left: 22%;
+    top: 15px;
+}
+header nav {
+    padding-top: 10px;
+    margin: 0px;
+}
+nav ul li{
+    margin: 0px;
+    font-size: 25px;
+    padding: 10px 10px 10px 10px 10px;
+    display: inline;
+    list-style: none;
+    border-radius: 2px; 
+    border: 2px solid;
+    background-color: rgb(50,50,50);
+    text-align: center;
+    font-family: arial;
+    width: 50px;
+}
+nav ul li a{
+    margin: 0px;
+    text-decoration: none;
+    color: rgb(254,2,43);
+    width: 50px;
+}   
+nav ul{
+    margin: 0px 10px 0px 50px;
+}
+figure a{
+    margin-right: 100px;
+}
+header figure img{
+    margin-right: 3.5%;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-top: 0px;
+}
+nav ul{
+    margin: 0px 10px 0px 50px;   
+}
+.formulario{
+    height: 65%;
+    width: 35%;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    top: 150px;
+    left: 12%;
+    padding: 50px 0px 0px 7.5%;
+    background-color: rgb(87,87,87);
+    border-radius: 15px;
+    color: white;
+    font-family: candara;
+}
+label.preencher{
+    display: inline-block;
+    width: 90px;
+}
+.redes{
+    height: 65%;
+    width: 20%;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    top: 150px;
+    left: 60%;
+    padding: 2%;
+    background-color: rgb(87,87,87);
+    border-radius: 15px;
+    color: white;
+    font-family: candara;
+}
+.redes figure a{
+    text-decoration: none;
+    color: white;
+}
+.redes figure a:link, a:visited {
+	text-decoration: none
+}
+.redes figure a:hover {
+	text-decoration: underline; 
+	color: #f00
+}
+.redes figure a:active {
+	text-decoration: none
+}
+footer{
+    float: top;
+    background-color: rgb(87,87,87);
+    margin: 0px;
+    height: 8%;
+    width: 75%;
+    padding-left: 25%;
+    position: absolute;
+    left: 0%;
+    top: 100%;
+    font-family: candara;
+}
+footer p{
+    display: inline;
+    padding: 5px 5px 5px;
+    list-style: none;
+    text-align: center;
+}
+footer p a{
+    text-decoration: none;
+    color: white;
+}
