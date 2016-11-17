@@ -1,7 +1,7 @@
 <header>
     <figure>
         <img  style="float:left" src="../Imagens/logo.png" alt="logo" height="75px" width="90px" id="logo">
-        <a href="Inicio.php"><img  style="float:right" src="../Imagens/botaoSair.png" alt="logo" id="sair"></a>
+        <a href="../PHP/index.php"><img  style="float:right" src="../Imagens/botaoSair.png" alt="logo" id="sair"></a>
     </figure>      
     <nav>
         <ul>
@@ -76,7 +76,7 @@
 <article>
     <aside>
         <h1><a href="http://veiculos.fipe.org.br/">
-            <img src="tabela.jpg" alt="tabela "height="120px" width="160px">
+            <img src="../Imagens/tabela.jpg" alt="tabela "height="120px" width="160px">
         Tabela fipe</a></h1>
     </aside>
 </article>

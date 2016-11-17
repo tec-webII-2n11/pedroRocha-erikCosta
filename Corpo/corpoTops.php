@@ -1,7 +1,7 @@
 <header>
     <figure>
         <img  style="float:left" src="../Imagens/logo.png" alt="logo" height="75px" width="90px" id="logo">
-        <a href="Inicio.php"><img  style="float:right" src="../Imagens/botaoSair.png" alt="logo" id="sair"></a>
+        <a href="index.php"><img  style="float:right" src="../Imagens/botaoSair.png" alt="logo" id="sair"></a>
     </figure>      
     <nav>
         <ul>
