@@ -1,6 +1,6 @@
 <script type="text/javascript">
             function loginsucessfully(){
-                setTimeout("window.location='index.php'",2000);
+                setTimeout("window.location='Inicio.php'",2000);
                 alert('Usuário autenticado com sucesso');
             }
             function loginfailed(){

@@ -5,7 +5,7 @@
     </figure>      
     <nav>
         <ul>
-            <li><a href="../PHP/index.php">Home</a></li>
+            <li><a href="../PHP/Inicio.php">Home</a></li>
             <li><a href="../PHP/Sobre.php">Sobre</a></li>
             <li><a href="../PHP/Carros.php">Carros<a/></li>
             <li><a href="../PHP/Tops.php">Tops</a></li>
